@@ -1,0 +1,13 @@
+"Last Name","hasLeftFirm__c","Account name"
+
+"sachin","true","ravish"
+"ab","true","ravish"
+"ravi","true","ravish"
+
+"ahan","false","cricket"
+"jahan","false","cricket"
+"abd","false","cricket"
+
+"rahul","false","abhi"
+"bhuvi","true","abhi"
+"jadeja","false","abhi"
